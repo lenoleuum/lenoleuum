@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunshine-ki&langs_count=6&layout=compact&theme=react)
-
 <!--
 **lenoleuum/lenoleuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
