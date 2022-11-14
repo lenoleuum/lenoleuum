@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Education :
+<div>
+Bauman Moscow State Technical University, Software Engineering IU7 (2019 - 2023). &nbsp;
+</div>
+
+###
+
+<div id="end-gif" align="left">
+  <img src="https://user-images.githubusercontent.com/76661573/201724767-c581727f-466f-4652-8d1d-d04b66037598.jpg" width="400"/>
+</div>
