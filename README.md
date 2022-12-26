@@ -26,7 +26,6 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- <img src="https://yandex.ru/images/search?text=informatica%20powercenter%20logo&from=tabbar&pos=2&img_url=http%3A%2F%2Fbayard-consulting.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finformatica-logo_neu.png&rpt=simage&lr=10758" alt="oracle" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original-wordmark.svg" alt="bamboo" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/>
