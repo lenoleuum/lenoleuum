@@ -43,6 +43,6 @@ Bauman Moscow State Technical University, Software Engineering IU7 (2019 - 2023)
 
 <h3 align="left">📈 My GitHub Statistics</h3>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenoleuum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenoleuum&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=lenoleuum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=lenoleuum&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
